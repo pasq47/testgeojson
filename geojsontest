@@ -11,6 +11,39 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          17.103549485173176,
+          40.69370979866545
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          16.90114001315561,
+          40.85644804092195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          17.169730329734534,
+          40.87834704925049
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
